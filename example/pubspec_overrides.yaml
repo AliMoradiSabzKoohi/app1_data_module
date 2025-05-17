@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: app1_data_module
+dependency_overrides:
+  app1_data_module:
+    path: ..
